@@ -1,6 +1,6 @@
 baseURL = "https://examplesite.com"
 googleAnalytics = ""
-theme = "omeg"
+theme = "Kabir"
 title = "WISE "
 [markup.goldmark.renderer]
 unsafe = true
