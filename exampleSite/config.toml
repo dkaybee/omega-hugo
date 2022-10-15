@@ -1,7 +1,7 @@
 baseURL = "https://examplesite.com"
 googleAnalytics = ""
 theme = "omega"
-title = "WISEMAN CONCEP"
+title = "WISE "
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
