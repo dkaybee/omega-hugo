@@ -12,7 +12,7 @@ gallery:
   enable: true
   images:
   - images/gallery/n1.png
-  - images/gallery/gallery-02.png
+  - images/gallery/n1.png
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
