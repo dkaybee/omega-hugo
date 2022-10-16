@@ -88,3 +88,4 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
+the boy is mine and he's going to school
